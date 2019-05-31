@@ -1,2 +1,5 @@
 # Proyectos de reconocimiento de patrones
-El ambiente de conda se llama py3
+
+Investigacion Corta 1: Directorio inv1
+   * Tutorial de pandas
+   * Analisis exploratorio de datos
